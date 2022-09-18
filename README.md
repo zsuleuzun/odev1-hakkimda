@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Web Sayfası
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Kodluyoruz Front-End Eğitimi kapsamında hazırladığım ilk web sayfası. Eğitimde verilen Ödev 1 ve Ödev 2 konularını kapsamaktadır.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitimi kapsamında hazırladığım ilk web sayfası. Eğitimde verilen Ödev 1 ve Ödev 2 konularını kapsamaktadır.
 
 ## İçerik
 
